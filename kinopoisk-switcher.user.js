@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name         Kinopoisk Domain Switcher
 // @namespace    http://tampermonkey.net/
-// @version      1.3
+// @version      1.4
 // @description  Добавляет ярлыки для смены домена на skinopoisk и kinopoisk.run
 // @author       kannos
 // @match        https://www.kinopoisk.ru/*
 // @grant        none
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=kinopoisk.ru
-// @updateURL    https://raw.githubusercontent.com/maxgalzer/kinopoisk-switcher/main/kinopoisk-switcher.user.js
-// @downloadURL  https://raw.githubusercontent.com/maxgalzer/kinopoisk-switcher/main/kinopoisk-switcher.user.js
+// @updateURL    https://maxgalzer.github.io/kinopoisk-switcher/kinopoisk-switcher.user.js
+// @downloadURL  https://maxgalzer.github.io/kinopoisk-switcher/kinopoisk-switcher.user.js
 // ==/UserScript==
 (function() {
     'use strict';
