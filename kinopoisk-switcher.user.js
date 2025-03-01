@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Kinopoisk Domain Switcher
 // @namespace    http://tampermonkey.net/
-// @version      1.2
+// @version      1.3
 // @description  Добавляет ярлыки для смены домена на skinopoisk и kinopoisk.run
 // @author       kannos
 // @match        https://www.kinopoisk.ru/*
